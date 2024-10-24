@@ -13,14 +13,14 @@ Many parents struggle to find safe, organised local activities that offer physic
 - Event Filtering: By location, date, time, and age, allowing parents to find suitable events for their schedule and child's age group.
 - Certified Coaches: All coaches are DBS checked and first aid trained, providing assurance for parents.
 
-## Features:
+## Features 🎯:
 
 - Home Page: Displays a list of local football events.
 - Event Filtering: Filter events by location, date, time, and age to find the perfect fit.
 - Join Event Button: Allows parents to sign their children up for the chosen event.
 - Create Event Page: Parents can organise a football meet-up, add it to the platform’s database, and have it displayed on the homepage for others to join.
 
-## Technologies Used:
+## Technologies Used 🛠️:
 
 - Next.js: Offering reusable components, easy routing, and server-side rendering to improve performance.
 - PostgreSQL: Managing relational data like events and attendees.
@@ -56,19 +56,19 @@ Open http://localhost:3000 in your browser to view the project.
 
 https://final-project-final-destination.onrender.com/
 
-## Watch a talk through demo of our website and see it in action!
+## Watch a talk through demo of our website and see it in action! 🎥
 
 https://thoracic-viola-6d9.notion.site/Footie-Friends-Demo-129cff359e6a80ed97b5d59cdb62d891?pvs=4
 
-## Our planning for the week:
+## Our planning for the week 📝:
 
 https://www.figma.com/board/os6K2k36YilA1Szs8dnfSi/week-13---group-project?node-id=18-1378&node-type=text&t=qlzqpvAHIvTVd8Ai-0
 
-## Credits
+## Credits:
 
 This project was created in 4 days as part of the School of Code bootcamp final project.
 
-## Our team:
+## Meet the team 👋🏼:
 
 - [Mahik](https://github.com/Mahik99)
 - [Faisal](https://github.com/faisalagood)
